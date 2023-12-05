@@ -19,7 +19,7 @@ A Flask-powered chatbot that fetches collection data from SAP servers, providing
 ## Installation
 
 # Clone the repository
-git clone https://github.com/Amit-Chandra/chatbot.git
+git clone https://github.com/Amit-Chandra/ChatBot.git
 
 # Navigate to the project directory
 cd ChatBot
